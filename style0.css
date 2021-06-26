@@ -1,0 +1,281 @@
+body{
+	margin:0;
+	padding: 0;
+	line-height: 1.5em;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 12px;
+}
+
+.container-1 {
+background-image:url(templatemo_logo_blank.jpg);
+border:solid 1px black;
+margin-top:0;
+width: : 100%;
+height: 90px;
+line-height: 4px;
+display:flex;	
+}
+.item-1 h1{
+	color:white;
+	margin-left:120px;
+	margin-top: 42px;
+	padding:1px;
+	font-weight: lighter;
+	font-size: 30px;
+	font-stretch:wider;
+}
+
+.item-1 p{
+	color:#899fd7;
+	margin-left:136px;
+}
+.item2{
+	display: flex;
+	justify-content:center;
+	border:1px solid #4f4f4f;
+	width:550px;
+	height: 45px;
+	border-radius:25px;
+	margin-left: 500px;
+	margin-top: 23px;
+}
+.item2 ul{
+	display: flex;
+	list-style-type: none;
+}
+.item2 li{
+	display: flex;
+	justify-content:center;
+}
+
+.item2 a{
+	display: flex;
+	justify-content:center;
+	text-decoration: none;
+	padding:26px;
+	margin-top:-18px;
+	color:#919191;
+	font-size: 14px;
+
+}
+.item2 li a:hover{
+	color:#899fd7;
+}
+.item2 li .menu1{
+	color:#899fd7;
+}
+.border1{
+	background-color: #8fa7e3;
+	height:4px;
+}
+.container-2{
+	display:flex;
+	background-image: url(templatemo_banner_bg.jpg);
+	height:280px;
+	border-bottom: 1px solid black;
+	border-top: 1px solid #c7d7ff;
+}
+.img {
+	margin-top: 33px;
+	margin-left:110px;
+	border:10px #b2b6bf solid;
+	box-shadow: 5px 0px 10px black;
+
+}
+.description{
+	font-size: 15px;
+	line-height: 35px;
+	margin-left: 240px;
+	margin-top: 15px;
+
+}
+.sous-titre{
+	line-height:25px;
+	color:#b2b6bf;
+	font-weight: lighter;
+
+}
+.description h1{
+	color: white;
+	font-weight: lighter;
+}
+.link1{
+	background-color:#707070;
+	color: white;
+	font-size: 13px;
+	font-weight: bold;
+	color: white;
+	padding: 9px;
+	border-radius: 5px;
+	text-decoration:none;
+	box-shadow: 1px 1px 1px 1px black;
+}
+
+.titre {
+	color:black;
+	margin-left: 110px;
+	margin-top:38px;
+	border-bottom:1.5px #899fd7 solid;
+	width: 520px;
+
+
+}
+.titre h1{
+	font-weight: lighter;
+}
+.des1 {
+	margin-left: 110px;
+	margin-top: 20px;
+
+}
+.des2{
+	margin-left: 110px;
+	color:#666666;
+}
+.content_list_01{
+	margin-left: 110px;
+	margin-top: 40px;
+	color:#666666;
+}
+.content_list_01 li{
+	margin: 0px;
+	padding: 0 0 10px 10px;
+}
+.content_list_02{
+	border-left: 10px solid #536592;
+	color:#666666;
+	padding-left: 20px;
+	margin-left: 110px;
+	margin-top: 40px;
+
+}
+.box-right{
+	float:right;
+	margin-top:-400px;
+	margin-right:400px;
+	width: 298px;
+	background:#404040;
+	border: 1px solid #2e2e2e;
+	border-bottom: 1px solid black;
+}
+.num1{
+	height: 35px;
+	padding: 15px 0 0 20px;
+	font-size: 18px;
+	color: #ffffff;
+}
+.box-2{
+	display: flex;
+	margin-top:-347px;
+	margin-left:741px;
+	border:1px solid silver;
+	width: 298px;
+	height:130px;
+	background-color:#e8e8e8;
+}
+.col-2{
+	font-size: 12px;
+	color: #9a9a9a;
+	margin-left: 10px;
+	margin-top:16px;
+
+}
+.num2{
+	margin-left: 16px;
+	margin-top: 16px;
+
+}
+.box-3{
+	display: flex;
+	margin-top:1px;
+	margin-left:741px;
+	border:1px solid silver;
+	width: 298px;
+	height:130px;
+	background-color:#d4d4d4;
+}
+.col-3{
+	font-size: 12px;
+	color: #9a9a9a;
+	margin-left: 10px;
+	margin-top:16px;
+
+}
+.num3{
+	margin-left: 16px;
+	margin-top: 16px;
+
+}
+.box-4{
+	display: flex;
+	margin-top:1px;
+	margin-left:741px;
+	border:1px solid silver;
+	width: 298px;
+	height:130px;
+	background-color:#e8e8e8;
+}
+.col-4{
+	font-size: 12px;
+	color: #9a9a9a;
+	margin-left: 10px;
+	margin-top:16px;
+
+}
+.num4{
+	margin-left: 16px;
+	margin-top: 16px;
+
+}
+.link{
+	color:#363636;
+	font-weight: bold;
+}
+.css{
+	margin-top: 50px;
+	width:100%;
+	height: 3px;
+}
+.container-4{
+	display:flex;
+	justify-content:space-evenly;
+	margin-top:-4.5px;
+	background-color:#262626;
+}
+.container-4 div{
+	margin-top:15px;
+}
+.link-end{
+	text-decoration: none;
+	color:#919191;
+
+}
+.link5{
+	text-decoration: none;
+	color:white;
+	border:1px solid #6e6b6b;
+	background-color:#242424;
+	font-size: 14px;
+	width: 300px;
+	padding:6px 50px 4px 10px;	
+	border-radius: 15px;
+	box-shadow:2px 2px 3px black;	
+	
+}
+.footer{
+	background-color:#262626;
+	height: 60px;
+	border-bottom: 2px solid #899fd7;
+}
+.des-end{
+	margin-left: 80px;
+	color:#919191;
+	padding-top: 13px;
+
+}
+.bold{
+	color:black;
+}
+.footer-end{
+	text-align: center;
+}
